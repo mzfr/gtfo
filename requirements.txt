@@ -1,0 +1,6 @@
+pyyaml
+requests
+bs4
+requests_cache
+tabulate
+pyfiglet
