@@ -8,16 +8,44 @@
   <a href="https://github.com/mzfr/gtfo/wiki/Usage">Usage</a> •
   <a href="https://github.com/mzfr/gtfo/wiki/Installation">Installation</a> •
   <a href="https://github.com/mzfr/gtfo/wiki/Installation">Installation</a> •
-  <a href="https://github.com/mzfr/gtfo#gallery">Gallery</a> •
+  <a href="https://github.com/mzfr/gtfo#gallery">Gallery</a>
 </p>
+
+gtfo is a tool purely written in python to search binaries on [GTFOBins](https://gtfobins.github.io/) and [LOLBAS](https://lolbas-project.github.io/).
+
+### Features
+
+The only feature of this tool is to give you the ability to search gtfobins and lolbas from terminal.
+
+oh and it also make you stick to your terminal. You won't have to face the bright light of your browser when you find out that vim is marked as SUID on the system you just got reverse shell on but don't know how to exploit that.
 
 ### Gallery
 
+* __Searching GTFOBins__
+
+![](Images/bin.png)
+
+* __Searching lolbas__
+
+![](Images/exe.png)
+
+* __List exe__
+
+![](Images/list-exe.png)
+
+* __List binaries__
+
+![](Images/list-bins.png)
+
+* __Errors__ :smile:
+
+![](Images/errors.png)
+
 ### Contribution
 
-* There are quite a few TODO's in the project. Help me complete those
 * Report a bug
 * Fix something and open a pull request
+* There are some `TODO` in the project. Help me complete those
 
 In any case feel free to open an issue
 
