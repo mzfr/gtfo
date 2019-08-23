@@ -11,7 +11,6 @@
   <a href="https://github.com/mzfr/gtfo/wiki/Introduction">Introduction</a> •
   <a href="https://github.com/mzfr/gtfo/wiki/Usage">Usage</a> •
   <a href="https://github.com/mzfr/gtfo/wiki/Installation">Installation</a> •
-  <a href="https://github.com/mzfr/gtfo/wiki/Installation">Installation</a> •
   <a href="https://github.com/mzfr/gtfo#gallery">Gallery</a>
 </p>
 
