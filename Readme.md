@@ -14,7 +14,7 @@
   <a href="https://github.com/mzfr/gtfo#gallery">Gallery</a>
 </p>
 
-gtfo is a tool purely written in python to search binaries on [GTFOBins](https://gtfobins.github.io/) and [LOLBAS](https://lolbas-project.github.io/).
+gtfo is a tool purely written in python3 to search binaries on [GTFOBins](https://gtfobins.github.io/) and [LOLBAS](https://lolbas-project.github.io/).
 
 ### Features
 
