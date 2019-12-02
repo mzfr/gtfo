@@ -1,6 +1,7 @@
 pyyaml
 requests
 bs4
+lxml
 requests_cache
 tabulate
 pyfiglet
