@@ -1,15 +1,11 @@
 """Search binaries from GTFOBins within command line
 """
 import requests
-import requests_cache
 import yaml
 from bs4 import BeautifulSoup
 from tabulate import tabulate
 
 from utils import colors
-
-# TODO: Add expire time
-requests_cache.install_cache("gtfobins")
 
 URL = "https://gtfobins.github.io/"
 RAW_URL = "https://raw.githubusercontent.com/GTFOBins/GTFOBins.github.io/master/_gtfobins/{}.md"
